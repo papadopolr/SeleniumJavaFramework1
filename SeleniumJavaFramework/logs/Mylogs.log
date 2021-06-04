@@ -1,0 +1,32 @@
+[INFO ] 2021-05-25 16:32:30.038 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 16:32:30.041 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 16:32:30.041 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 16:32:30.041 [main] Log4jDemo - Thi is a fatal message
+[INFO ] 2021-05-25 16:34:42.212 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 16:34:42.215 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 16:34:42.215 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 16:34:42.215 [main] Log4jDemo - Thi is a fatal message
+[INFO ] 2021-05-25 16:38:26.102 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 16:38:26.105 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 16:38:26.108 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 16:38:26.108 [main] Log4jDemo - Thi is a fatal message
+[TRACE] 2021-05-25 16:39:31.383 [main] Log4jDemo - This is trace message
+[INFO ] 2021-05-25 16:39:31.386 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 16:39:31.386 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 16:39:31.386 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 16:39:31.386 [main] Log4jDemo - Thi is a fatal message
+[TRACE] 2021-05-25 16:40:21.941 [main] Log4jDemo - This is trace message
+[INFO ] 2021-05-25 16:40:21.943 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 16:40:21.944 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 16:40:21.944 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 16:40:21.944 [main] Log4jDemo - Thi is a fatal message
+[TRACE] 2021-05-25 16:45:11.822 [main] Log4jDemo - This is trace message
+[INFO ] 2021-05-25 16:45:11.824 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 16:45:11.824 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 16:45:11.824 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 16:45:11.825 [main] Log4jDemo - Thi is a fatal message
+[TRACE] 2021-05-25 17:05:29.721 [main] Log4jDemo - This is trace message
+[INFO ] 2021-05-25 17:05:29.725 [main] Log4jDemo - This is information message
+[ERROR] 2021-05-25 17:05:29.725 [main] Log4jDemo - This is an error message
+[WARN ] 2021-05-25 17:05:29.725 [main] Log4jDemo - This is a warning message
+[FATAL] 2021-05-25 17:05:29.725 [main] Log4jDemo - Thi is a fatal message
